@@ -1,0 +1,25 @@
+node_modules
+.env
+# Node.js
+node_modules/
+
+# TypeScript
+*.tsbuildinfo
+
+# Dependency directories
+/lib/
+/dist/
+dist/
+
+# Environment files
+.env
+
+# IDE and editor files
+.vscode/
+.idea/
+
+# macOS
+.DS_Store
+
+# Logs
+*.log
